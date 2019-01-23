@@ -9,7 +9,7 @@
             "email": "lester0x05@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1",
     "require": {
         "php":">=7.0"
     },
