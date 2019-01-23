@@ -9,8 +9,8 @@
             "email": "lester0x05@gmail.com"
         }
     ],
-    "version":"v1.1.0",
-    "minimum-stability": "v1.0.0",
+    "version":"v1.0.0",
+    "minimum-stability": "stable",
     "require": {
         "php":">=7.0"
     },
