@@ -1,0 +1,21 @@
+{
+    "name": "lesteryou/diy-package",
+    "description": "try to make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lesteryou",
+            "email": "lester0x05@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Hello\\": "src/Hello"
+        }
+    }
+}
